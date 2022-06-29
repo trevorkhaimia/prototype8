@@ -35,7 +35,7 @@ func scraper() {
 		c.Visit("https://internshala.com/internships/page-" + strconv.Itoa(i))
 		break
 	}
-	log.Printf("it works\n")
+	log.Printf("it finnaly  works\n")
 	log.Panic(c)
 }
 func main() {
