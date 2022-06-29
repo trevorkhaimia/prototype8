@@ -1,8 +1,6 @@
 # prototype8
 
-im thinking machine learning in golang or python but i commited in golang im not a fan of python that much 
-
-## simple webscraper
+# a simple webscraper
 i wrote a simple webscraper that goes to internshala.com ,collects and html element then adds it to a csv file 
 
 ## little backstory 
